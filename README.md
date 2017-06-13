@@ -1,6 +1,32 @@
 ### 简介
-安全行业小工具收集项目，此项目内容来自：https://www.t00ls.net/thread-38964-1-1.html 感谢其分享，这里只是作为个人备份，如有问题可邮件通知。
+安全行业小工具以及学习资源收集项目，此项目部分内容来自：https://www.t00ls.net/thread-38964-1-1.html
+感谢其分享，这里只是作为个人备份，如有问题可邮件通知。
+
+## 安全资源
+安全资源包括安全书籍，资料，安全教程，学习平台等等。
+### 设备基线加固资料
+https://github.com/re4lity/Benchmarks
+
+https://learn.cisecurity.org/benchmarks
+
+https://nvd.nist.gov/ncp/repository
+
+### 内网渗透学习资料
+https://github.com/l3m0n/pentest_study
+
+### 密码字典
+https://github.com/rootphantomer/Blasting_dictionary
+
+### Webshell
+https://github.com/tennc/webshell
+
+### 安全脑图
+https://github.com/phith0n/Mind-Map
+
 ### 漏洞及渗透练习平台
+开源漏洞靶场
+
+https://github.com/phith0n/vulhub
 
 WebGoat漏洞练习环境
 
@@ -19,6 +45,9 @@ https://github.com/Audi-1/sqli-labs
 用node编写的漏洞练习平台，like OWASP Node Goat
 
 https://github.com/cr0hn/vulnerable-node
+
+## 安全工具
+安全工具包括：扫描器,漏洞利用工具,信息收集工具等等
 
 ### 花式扫描器 
 
